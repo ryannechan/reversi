@@ -1,0 +1,27 @@
+{
+  "name": "285-reversi",
+  "version": "0.0.1",
+  "description": "Web version of the game Reversi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryannechan/reversi.git"
+  },
+  "keywords": [
+    "reversi",
+    "mhcid"
+  ],
+  "author": "Ryanne Chan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ryannechan/reversi/issues"
+  },
+  "homepage": "https://github.com/ryannechan/reversi#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.6.1"
+  }
+}
